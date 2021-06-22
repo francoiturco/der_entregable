@@ -4,4 +4,4 @@
 
 ### NN - Not Null
 
-### NN - UK - Unike Keys
+### UK - Unike Keys
